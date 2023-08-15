@@ -599,7 +599,7 @@ font-family: 'Poppins', sans-serif;
                 }
                 .area_7 .area_7_contect .present{
                     text-align: center;
-                    width: 300px;
+                    width: 250px;
                  }
                 .area_7_date form{
                     display: flex;
@@ -608,7 +608,7 @@ font-family: 'Poppins', sans-serif;
                     flex-wrap: wrap;
                  }
                  .area_7 .area_7_contect .area_7_date .input{
-                   padding: 10px 40px ;
+                   padding: 10px 30px ;
                   }
             }
             /* .................end area_7........................ */
