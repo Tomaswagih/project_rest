@@ -610,7 +610,7 @@ font-family: 'Poppins', sans-serif;
                     flex-wrap: wrap;
                  }
                  .area_7 .area_7_contect .area_7_date form .input:first-child{
-                   padding: 10px 40px ;
+                   width:200px
                   }
             }
             /* .................end area_7........................ */
