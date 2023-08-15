@@ -224,6 +224,9 @@ font-family: 'Poppins', sans-serif;
             text-align: center;
             width: 300px;
          }
+        .home .home_contect .present h2{
+            font-size:40px;
+         }
 
     }
     /* .................end home........................ */
