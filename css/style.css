@@ -603,13 +603,14 @@ font-family: 'Poppins', sans-serif;
                     width: 200px;
                  }
                 .area_7_date form{
+                    
                     display: flex;
                     justify-content:center;
                     align-items:center;
                     flex-wrap: wrap;
                  }
-                 .area_7 .area_7_contect .area_7_date .input{
-                   padding: 10px 30px ;
+                 .area_7 .area_7_contect .area_7_date form .input:first-child{
+                   padding: 10px 40px ;
                   }
             }
             /* .................end area_7........................ */
